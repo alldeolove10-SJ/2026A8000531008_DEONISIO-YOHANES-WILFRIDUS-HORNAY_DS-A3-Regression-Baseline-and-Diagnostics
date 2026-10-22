@@ -1,0 +1,11 @@
+Feature,Definition
+age,age
+sex,sex
+bmi,body mass index
+bp,average blood pressure
+s1,total serum cholesterol
+s2,low-density lipoproteins
+s3,high-density lipoproteins
+s4,total cholesterol / HDL ratio
+s5,log of serum triglycerides
+s6,blood glucose
