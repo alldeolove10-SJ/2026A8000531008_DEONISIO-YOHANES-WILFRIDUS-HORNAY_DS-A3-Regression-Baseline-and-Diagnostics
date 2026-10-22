@@ -1,0 +1,5 @@
+Diagnostic,Value
+Breusch-Pagan p-value,0.0345
+Shapiro-Wilk p-value,0.6398
+Max Cook's distance,0.0277
+Influential points (Cook's > 4/n),18.0
